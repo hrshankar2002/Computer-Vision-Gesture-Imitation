@@ -4,7 +4,7 @@ Finger Gesture's are projected on to a robotic arm with the application of Deep 
 ```
 ## Description
 ```
-Pre-Trained deep learning model 'Hands' from MediaPipe lies at the core of the project. Out of the two repo files , 'main.py' handles finger detection while 'controller.py' helps in projection of the model on to 5 servo's corresponding to 5 fingers. Arduino is interfaced with python with the help of pyfirmata pre-written libraries from arduino.
+Pre-Trained deep learning model 'Hands' from MediaPipe lies at the core. Out of the two repo files , 'main.py' handles finger detection while 'controller.py' helps in projection of the model on to 5 servo's corresponding to 5 fingers. Arduino is interfaced with python with the help of pyfirmata pre-written libraries from arduino.
 ```
 ## Getting Started
 
@@ -17,7 +17,6 @@ Pre-Trained deep learning model 'Hands' from MediaPipe lies at the core of the p
 ```
 ### Installing
 ```
-* Open CMD
 * pip install opencv-python
 * pip install mediapipe
 * pip install pyfirmata

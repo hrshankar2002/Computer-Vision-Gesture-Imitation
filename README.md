@@ -23,8 +23,6 @@ Pre-Trained deep learning model 'Hands' from MediaPipe lies at the core of the p
 * pip install pyfirmata
 ```
 ## Help
-
-Any advise for common problems or issues.
 ```
 Advised version of python to be used : 3.8.5
 ```
